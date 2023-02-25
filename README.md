@@ -1,7 +1,7 @@
 # Simple Web
-A simple web app using Rust, serving html page 3 requests then shutting down!, using ThreadPool logic, this app for fun.
+A simple web app, it's serving html page 3 requests then service shut down!, using ThreadPool logic, this app made for fun and learning purpose.
 
-This app no dependency required based on standard TCP in language.
+> no dependency required based on standard TCP in Rust.
 
 ## To run
 ```
