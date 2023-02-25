@@ -7,4 +7,4 @@ This app no dependency required based on standard TCP in language.
 ```
 cargo run
 ```
-Then browse to: http:127.0.0.1:8080
+then browse to: http://127.0.0.1:8080
